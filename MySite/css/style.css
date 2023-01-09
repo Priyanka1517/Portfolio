@@ -1,0 +1,153 @@
+body{
+    background-color: #fcf8f0;
+    margin:0;
+    margin-bottom: 0;
+    text-align:center;
+    font-family: 'Sanchez', serif;
+}
+
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size:4.265rem;
+    color:#C85C8E;
+}
+
+h2{
+    font-family: 'Bodoni Moda', serif;
+    font-size:1.875rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    color:#C85C8E;
+}
+
+h3{
+    font-family: 'Bodoni Moda', serif;
+    margin:35px auto 0 auto;
+    color:#3A8891;
+}
+
+p{
+    line-height: 1.8;
+    margin-bottom:0;
+    
+}
+
+table{
+    margin-left:auto;
+    margin-right:auto;
+    border-spacing: 15px;
+}
+.top-container{
+    background-color:#91D8E4;
+    
+    padding-top: 100px;
+    position:relative;
+    margin-bottom: 0;
+}
+
+.top-book{
+    position:absolute;
+    right:350px;
+    top:50px;
+}
+
+.bottom-book{
+    position:absolute;
+    left:350px;
+    top:50px;
+}
+
+.middle-container{
+    margin-top:50px;
+    width:50%;
+    margin:50px auto auto auto;
+    position:relative;
+}
+
+.my_pic{
+    border-radius: 100%;
+    width:30%;
+}
+
+.profile{
+    margin-bottom:50px;
+}
+
+.education{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.nit{
+    width:25%;
+    float:left;
+    margin :120px 20px 20px auto;
+}
+
+.Skills{
+    margin-top:50px;
+    margin-bottom:50px;
+    position:relative;
+}
+
+.webdev{
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.web_dev_img{
+    width:25%;
+    border-radius:100%;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.matlab{
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.matlab_img{
+    width:25%;
+    float:right;
+    margin-left:20px;
+    margin-bottom:20px;
+    border-radius:100%;
+}
+
+.prog{
+    margin-top:35px;
+    margin-bottom:35px;
+}
+
+.prog_img{
+    width:25%;
+    border-radius:100%;
+    float:left;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+
+.achievements{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.contact{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.bottom-container{
+    background-color:#91D8E4;
+    width:100%;
+    margin-bottom:0;
+    padding:0;
+}
+
+.linkedin{
+    color:rgb(73, 73, 250);
+}
